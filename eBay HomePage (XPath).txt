@@ -1,0 +1,33 @@
+////Writen & Executed By - Zannatul Mawa////
+
+eBay Home_Page:
+
+1. Actual Path: html/body/div[1]
+   Relative Path: //div[@class="gh-sch-prom"]
+
+2. Actual Path: html/body/div[3]
+   Relative Path: //div[@class="gh-acc-exp-div gh-hide-if-nocss"]
+
+3. Actual Path: html/body/div[5]
+   Relative Path: //div[@class="main-content"]
+
+4. Actual Path: html/body/div[5]/div[1]
+   Relative Path: //div[@class="hl-cat-nav"]
+
+5. Actual Path: html/body/div[5]/div[1]/ul
+   Relative Path: //ul [@class="hl-cat-nav__container"]
+
+6. Actual Path: html/body/div[5]/div[1]/ul/li[8]
+   Relative Path: //li[@class="hl-cat-nav__js-tab"]
+ 
+7. Actual Path: html/body/div[5]/div[1]/ul/li[2]/a
+   Relative Path: //li[@class="saved"]
+ 
+8. Actual Path: html/body/div[5]/div[1]/ul/li[8]/div[2]
+   Relative Path: //div[@class="hl-cat-nav__flyout"] [6]
+
+9. Actual Path: html/body/div[5]/div[1]/ul/li[10]/a
+   Relative Path: //li[@class="hl-cat-nav__js-tab hl-cat-nav__js-hide"] [1]
+
+10. Actual Path: html/body/div[4]/div[3]
+   Relative Path: //div[@class="gh-module-with-target"][3]
